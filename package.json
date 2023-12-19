@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node ./src/easy/maximum-depth-of-binary-tree.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
